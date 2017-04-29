@@ -1,0 +1,19 @@
+
+p {
+	font-family:sans-serif;
+}
+
+#image{
+	display:inline-block;
+}
+.imgBlock:hover{
+	border: 5px solid red;
+}
+
+.imgBlock{
+	border: 2px solid;
+	margin-right: 5px;
+	overflow:hidden;
+}
+
+
